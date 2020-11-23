@@ -1,17 +1,17 @@
 # SeleniumProject
-Selenium Task
-Selenium Framework project using java , testNg , maven and POM
+#Selenium Task
+#Selenium Framework project using java , testNg , maven and POM
 
-Classes : 
-Testbase to intiate drive and quit
-UserRegisteration contain elemnt of page and method used
-Pagebase to use page factory
-TestCase contain test cases
+#Classes : 
+#Testbase to intiate drive and quit
+#UserRegisteration contain elemnt of page and method used
+#Pagebase to use page factory
+#TestCase contain test cases
 
-Report:
-ScreenShots to capture screenshot when test case fails
+#Report:
+#ScreenShots to capture screenshot when test case fails
 
-Properties:
-register.properties contain registeration URL
+#Properties:
+#register.properties contain registeration URL
 
 
